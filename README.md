@@ -2,9 +2,9 @@
 
 # Hi, I'm Mekuannint Biazen 👋
 
-### Software Engineer | Full-Stack Development | Cybersecurity
+### Software Engineer | Software Development 
 
-I build full-stack web applications, automation tools, and data-driven software that solve real-world problems. I enjoy designing scalable systems, writing clean code, and continuously learning technologies that make software more reliable, secure, and impactful.
+I build full-stack web applications, automation tools, and data-driven software that solve real-world problems.
 
 </div>
 
@@ -12,7 +12,7 @@ I build full-stack web applications, automation tools, and data-driven software 
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineering graduate passionate about building modern software solutions. Throughout my academic and personal projects, I've developed full-stack web applications, mobile applications, automation tools, and web scraping systems using modern technologies.
+I'm a web developer passionate about building modern software solutions. Throughout my academic and personal projects, I've developed full-stack web applications, mobile applications, automation tools, and web scraping systems using modern technologies.
 
 I enjoy solving practical problems through software engineering while continuously strengthening my knowledge in backend development, cloud computing, system design, and cybersecurity. I'm currently preparing for graduate studies in Computer Science and always looking for opportunities to build meaningful software that creates real value.
 
@@ -34,34 +34,53 @@ I enjoy solving practical problems through software engineering while continuous
 
 ### Software Development
 
-- HTML, CSS, JavaScript
-- React, TypeScript, Tailwind CSS
-- Node.js, Express.js
-- Python, FastAPI, Flask
-- Java, C++
-- Flutter
-- MySQL, PostgreSQL, MongoDB
+● HTML, CSS, JavaScript
+
+● React, TypeScript, Tailwind CSS
+
+● Node.js, Express.js
+
+● Python, FastAPI, Flask
+
+● Java, C++
+
+● Flutter
+
+● MySQL, PostgreSQL, MongoDB
 
 ### Cloud & Tooling Foundations
 
-- Git, GitHub
-- Docker
-- Linux CLI
-- Playwright
-- Postman
-- REST API Development
-- API Testing and Debugging
-- Vercel Deployments
-- Troubleshooting and Root-Cause Analysis
+• Git, GitHub
+
+• Docker
+
+• Linux CLI
+
+• Playwright
+
+• Postman
+
+• REST API Development
+
+• API Testing and Debugging
+
+• Vercel Deployments
+
+• Troubleshooting and Root-Cause Analysis
 
 ### Cybersecurity Foundations
 
-- Secure Authentication Concepts
-- OWASP Top 10 Awareness
-- Secure Coding Practices
-- Web Security Fundamentals
-- Network Security Fundamentals
-- API Security Fundamentals
+• Networking Fundamentals
+
+• Introduction to Secure Authentication
+
+• OWASP Top 10 Awareness
+
+• Secure Coding Basics
+
+• Web Security Fundamentals
+
+• API Security Fundamentals
 
 ---
 
@@ -75,7 +94,10 @@ I enjoy solving practical problems through software engineering while continuous
 
 ## 📫 Contact
 
-- **Portfolio:** https://your-portfolio.vercel.app
-- **GitHub:** https://github.com/mekuannint-biazen
-- **LinkedIn:** https://linkedin.com/in/your-linkedin
-- **Email:** your-email@example.com
+• **Portfolio:** https://your-portfolio.vercel.app
+
+• **GitHub:** https://github.com/mekuannint-biazen
+
+• **LinkedIn:** https://linkedin.com/in/your-linkedin
+
+• **Email:** your-email@example.com
