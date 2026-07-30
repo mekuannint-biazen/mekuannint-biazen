@@ -48,7 +48,7 @@ I enjoy solving practical problems through software engineering while continuous
 
 ● MySQL, PostgreSQL, MongoDB
 
-## Cloud & Tooling Foundations
+### Cloud & Tooling Foundations
 
 • Git, GitHub
 
@@ -68,7 +68,7 @@ I enjoy solving practical problems through software engineering while continuous
 
 • Troubleshooting and Root-Cause Analysis
 
-## Cybersecurity Foundations
+### Cybersecurity Foundations
 
 • Networking Fundamentals
 
