@@ -2,7 +2,7 @@
 
 # Hi, I'm Mekuannint Biazen 👋
 
-### Software Engineer | Software Development 
+### Software Engineer | Software Developer
 
 I build full-stack web applications, automation tools, and data-driven software that solve real-world problems.
 
@@ -34,53 +34,34 @@ I enjoy solving practical problems through software engineering while continuous
 
 ### Software Development
 
-● HTML, CSS, JavaScript
-
-● React, TypeScript, Tailwind CSS
-
-● Node.js, Express.js
-
-● Python, FastAPI, Flask
-
-● Java, C++
-
-● Flutter
-
-● MySQL, PostgreSQL, MongoDB
+- HTML, CSS, JavaScript
+- React, TypeScript, Tailwind CSS
+- Node.js, Express.js
+- Python, FastAPI, Flask
+- Java, C++
+- Flutter
+- MySQL, PostgreSQL, MongoDB
 
 ### Cloud & Tooling Foundations
 
-• Git, GitHub
+- Git, GitHub
+- Docker
+- Linux CLI
+- Playwright
+- Postman
+- REST API Development
+- API Testing and Debugging
+- Vercel Deployments
+- Troubleshooting and Root-Cause Analysis
 
-• Docker
+### Networking Basics
 
-• Linux CLI
-
-• Playwright
-
-• Postman
-
-• REST API Development
-
-• API Testing and Debugging
-
-• Vercel Deployments
-
-• Troubleshooting and Root-Cause Analysis
-
-### Cybersecurity Foundations
-
-• Networking Fundamentals
-
-• Introduction to Secure Authentication
-
-• OWASP Top 10 Awareness
-
-• Secure Coding Basics
-
-• Web Security Fundamentals
-
-• API Security Fundamentals
+- OSI Model
+- TCP/IP Fundamentals
+- IP Addressing & Subnetting
+- DNS & DHCP
+- Routing & Switching Concepts
+- Basic Network Troubleshooting
 
 ---
 
