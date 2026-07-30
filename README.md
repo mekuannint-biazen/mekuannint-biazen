@@ -1,16 +1,81 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mekuannint-biazen/mekuannint-biazen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Mekuannint Biazen 👋
 
-Here are some ideas to get you started:
+### Software Engineer | Full-Stack Development | Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build full-stack web applications, automation tools, and data-driven software that solve real-world problems. I enjoy designing scalable systems, writing clean code, and continuously learning technologies that make software more reliable, secure, and impactful.
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Software Engineering graduate passionate about building modern software solutions. Throughout my academic and personal projects, I've developed full-stack web applications, mobile applications, automation tools, and web scraping systems using modern technologies.
+
+I enjoy solving practical problems through software engineering while continuously strengthening my knowledge in backend development, cloud computing, system design, and cybersecurity. I'm currently preparing for graduate studies in Computer Science and always looking for opportunities to build meaningful software that creates real value.
+
+---
+
+## 🛠️ What I Do
+
+- Build responsive and modern web applications using HTML, CSS, JavaScript, React, and TypeScript
+- Develop backend services and REST APIs using Node.js, Express, FastAPI, and Flask
+- Build automation tools and web scrapers using Python and Playwright
+- Design and manage relational and NoSQL databases including MySQL, PostgreSQL, and MongoDB
+- Develop full-stack applications from design through deployment
+- Write clean, maintainable, and scalable code
+- Continuously learn software engineering, cloud computing, and cybersecurity best practices
+
+---
+
+## 🔧 Skills
+
+### Software Development
+
+- HTML, CSS, JavaScript
+- React, TypeScript, Tailwind CSS
+- Node.js, Express.js
+- Python, FastAPI, Flask
+- Java, C++
+- Flutter
+- MySQL, PostgreSQL, MongoDB
+
+### Cloud & Tooling Foundations
+
+- Git, GitHub
+- Docker
+- Linux CLI
+- Playwright
+- Postman
+- REST API Development
+- API Testing and Debugging
+- Vercel Deployments
+- Troubleshooting and Root-Cause Analysis
+
+### Cybersecurity Foundations
+
+- Secure Authentication Concepts
+- OWASP Top 10 Awareness
+- Secure Coding Practices
+- Web Security Fundamentals
+- Network Security Fundamentals
+- API Security Fundamentals
+
+---
+
+
+
+## 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mekuannint-biazen&layout=compact)
+
+---
+
+## 📫 Contact
+
+- **Portfolio:** https://your-portfolio.vercel.app
+- **GitHub:** https://github.com/mekuannint-biazen
+- **LinkedIn:** https://linkedin.com/in/your-linkedin
+- **Email:** your-email@example.com
